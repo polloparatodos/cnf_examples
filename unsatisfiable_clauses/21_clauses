@@ -1,0 +1,22 @@
+21
+a b c
+a b !c
+a !b c
+a !b !c
+!a b c
+!a b !c
+!a !b c
+!a !b !c
+a !a d
+b !b d
+c !c d
+d !d a
+e f g
+e f !g
+e !f g
+e !f !g
+!e f g
+!e f !g
+!e !f g
+!e !f !g
+d !d e
