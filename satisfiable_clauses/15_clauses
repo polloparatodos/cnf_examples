@@ -1,0 +1,16 @@
+15
+a b c
+a !d e
+!f g !h
+i !j k
+!l m n
+!l m b
+!l m c
+a !d k
+!f g k
+i !j k
+!p q r
+!p q !s
+x y !z
+!x !y z
+x !y !z
